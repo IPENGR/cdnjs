@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>[
 # AvatarJS
 TODO: AvatarJS project for cdn this is use for educational site
 ## version
