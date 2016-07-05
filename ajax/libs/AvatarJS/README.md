@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:AvatarJS}
+# AvatarJS
 TODO: AvatarJS project for cdn this is use for educational site
 ## version
 TODO:0.2.0
