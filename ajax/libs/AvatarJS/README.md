@@ -1,5 +1,5 @@
 <snippet>
-  <content>[
+  <content>
 # AvatarJS
 TODO: AvatarJS project for cdn this is use for educational site
 ## version
@@ -9,6 +9,6 @@ TODO:https://github.com/IPENGR/AvatarJS.git
 
 ## License
 TODO: MIT
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+</content>
+ 
 </snippet>
